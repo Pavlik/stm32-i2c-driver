@@ -1,0 +1,37 @@
+# STM32CubeIDE workspace
+.metadata/
+
+# Build folders
+**/Debug/
+**/Release/
+
+# Object and dependency files
+*.o
+*.d
+*.su
+
+# Output files
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Eclipse settings
+**/.settings/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.tmp
+*.bak
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
